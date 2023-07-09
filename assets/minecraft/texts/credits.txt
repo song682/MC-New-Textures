@@ -1,0 +1,1956 @@
+[C]§f============
+[C]§eMinecraft Team
+[C]§f============
+	
+[C]§eMinecraft
+§7Original Creator	        
+§7    Markus Persson
+
+§7Head of Minecraft
+§f	        Helen Chiang 
+§f	        Chief Executive Officer
+§f	        Jonas Mrtensson
+
+§7Design
+§f	        Chief Creative Officers 
+§f	        Jens Bergensten 
+§f	        Saxs Persson
+
+§7Game Director 	 
+§f	        Agnes Larsson 
+
+§7Creative Director 
+§f	        Jesse Merriam 
+§f	        Torfi Frans Olafsson 
+
+§7Principal Design Director
+§f	        Craig Leigh 
+	
+§7Lead Game Designers 
+§f	        Rob Poerschke 
+§f	        Robin V Vincent 
+
+§7Game Designers
+§f	        Art Usher 
+§f	        Brandon Franklin (Insight Global Inc.) 
+§f	        Brandon Pearce 
+§f	        Cole Phillips 
+§f	        Cory Scheviak 
+§f	        Henrik Kniberg 
+§f	        Jared Greiner 
+§f	        Lauren E Careccia 
+§f	        Michael Stagnitta 
+§f	        Nir Vaknin 
+§f	        Pradnesh Patil 
+§f	        Steve Enos 
+§f	        Tod Pang 
+
+§7Narrative Designers
+§f	        Max Herngren
+
+§7Programming
+§7	       Chief Technology Officer
+§7	       Michael W Weilbacher  
+  
+§7Head of Services and Ops Engineering
+§f	        Vince Curley
+
+§7Head of Stockholm Engineering
+§f	        Mike Carlson 
+
+§7Director of Franchise Quality
+§f	        Matthew Ng
+
+§7Technical Director
+§f	        Christopher stlund 
+§f	        Jason Cahill 
+§f	        Jason Major 
+§f	        Lawrence M. Sanchez II 
+§f	        Michael J. Ott 
+§f	        Nathan Adams
+
+§7Lead Game Developers
+§f	        Gary McLaughlin 
+§f	        James S Yarrow 
+§f	        Mason McCuskey 
+§f	        Matt Hawley 
+§f	        Mikael Hedberg 
+§f	        Andrew Maher 
+§f	        Michael Scott
+   
+§7Game Developers
+§f	        Alex Green (Red Lens Games Inc) 
+§f	        Alexander ?stman 
+§f	        Alexander Sandor 
+§f	        Alexander Torstling 
+§f	        Bartosz Bok 
+§f	        Billy Sj?berg 
+§f	        Bjarni Gudmundsson 
+§f	        Brian Threvathan 
+§f	        Chad George 
+§f	        Cody Centers (Insight Global Inc.) 
+§f	        Craig Steyn 
+§f	        David Dalstr?m 
+§f	        Erik Broes 
+§f	        Ethan A Hall (Collabera) 
+§f	        Felix Jones 
+§f	        Georgii Gavrichev 
+§f	        Henning Erlandsen 
+§f	        Isaac Dayton 
+§f	        James Vanderheiden (Insight Global Inc.) 
+§f	        Johannes Busch 
+§f	        Kristoffer Kobosko 
+§f	        Lily Leblanc (Insight Global Inc.) 
+§f	        Matthew Gatland 
+§f	        Michael Stoyke 
+§f	        Nhi Vo 
+§f	        Niclas Unnervik 
+§f	        Nilay Karaoglu 
+§f	        Pouya Ashraf 
+§f	        Sean Reilly 
+§f	        William Harmon (Insight Global Inc.)
+
+§7Lead UI Developers
+§f	        Oleg Kozitsyn 
+§f	        Paulo Ragonha
+
+§7UI Developers
+§f	        Albin Odervall 
+§f	        Anna Prni 
+§f	        Danila Dergachev 
+§f	        Emil Hedemalm 
+§f	        Eric Grimsborn 
+§f	        Fernando Va Canel 
+§f	        Marlon Huber-Smith 
+§f	        Oskar Pedersen 
+§f	        Richard Pihlcrantz
+
+§7Launcher Developers
+§f	        Linus Cumselius 
+§f	        Lucas Morales 
+§f	        Marc Neander 
+§f	        Marcio Oliveira 
+§f	        Martin Hesselborn 
+§f	        Michael Malmqvist 
+§f	        Petr Mrazek 
+§f	        Piotr Kundu 
+§f	        Rasmus Kellqvist
+
+§7Lead Architects
+§f	        Greg Snook 
+§f	        Henry Golding 
+§f	        Peter M. Wiest
+
+§7Architects 
+§f	        Dom Humphrey 
+§f	        Mike Frost 
+§f	        Michael Seydl 
+§f	        Robert Sanchez
+
+§7Lead Bedrock Software Developers
+§f	        Bill Carlson 
+§f	        Bryan Yeo 
+§f	        Chad C Meyers 
+§f	        Dan Posluns 
+§f	        Fanny P Vadillo Herrera 
+§f	        Haronid Moncivais 
+§f	        Jamie Fristrom 
+§f	        Jeff McKune 
+§f	        John Copic 
+§f	        John Seghers 
+§f	        Jonas Keating 
+§f	        Mark D. Andersen 
+§f	        Mark Grinols 
+§f	        Maxime Bouchez 
+§f	        Michael D McGrath 
+§f	        Nickolas Graczyk 
+§f	        Shane Pierce 
+§f	        Steve Robinson 
+§f	        Tyler Laing
+ 
+§7Bedrock Software Developers
+§f	        A.J. Fairfield 
+§f	        Aaron Woodward 
+§f	        Adrian T Orszulak 
+§f	        Afeez Olusegun K Bello 
+§f	        Alex Troyer 
+§f	        Alex Wouters (Insight Global Inc.) 
+§f	        Alexander Wilkinson 
+§f	        Amy Bernhoft (C2S Technologies Inc.) 
+§f	        Andrew Chien (Insight Global Inc.) 
+§f	        Andy Hill 
+§f	        Anna Pearson (Insight Global Inc.) 
+§f	        Anthony Cloudy 
+§f	        Austin Larkin (Insight Global Inc.) 
+§f	        Ayannah R Adegeye 
+§f	        Chris BeHanna 
+§f	        Coseo Frerichs (Insight Global Inc.) 
+§f	        Curtis Michael Eichner 
+§f	        Dan Gonyea 
+§f	        Dana Zhu 
+§f	        Daniel Stevens 
+§f	        David Carlton 
+§f	        David Cowan 
+§f	        David Roberts (Insight Global Inc.) 
+§f	        Declan Hopkins 
+§f	        Dimitri Kishmareishvili (CSI Interfusion Inc.) 
+§f	        Drew Okenfuss 
+§f	        Dylan Ross (Insight Global Inc.) 
+§f	        Emily Koykka 
+§f	        Eric Johnston 
+§f	        Eric Rehmeyer 
+§f	        Garrett Allen 
+§f	        Hector Llanos III 
+§f	        Hector M Arriaga Pineda 
+§f	        Jaafer Sheriff 
+§f	        Jake Shirley 
+§f	        Jason Orion Burch 
+§f	        Jeff Ott 
+§f	        Jeison Salazar (Insight Global Inc.) 
+§f	        John Countouriotis (Populus Group  LLC) 
+§f	        Jonathan R Hoof 
+§f	        Joseph Kichline (Insight Global Inc.) 
+§f	        Kari C Whiteside 
+§f	        Kento Murawski (Insight Global Inc.) 
+§f	        Kristin A Siu 
+§f	        Li Yang (Insight Global Inc) 
+§f	        Loren J. Merriman (Kalvi Consulting Service) 
+§f	        Lucas Carpenter (Collabera) 
+§f	        Lucy Lauzon (Collabera) 
+§f	        Matt Staubus 
+§f	        Michael Davidson (Insight Global Inc.) 
+§f	        Mitchell Lee (Insight Global Inc.) 
+§f	        Molly Flemming 
+§f	        Nicholas Curtis 
+§f	        Paul Schierman 
+§f	        Radha Kotamarti 
+§f	        Robert Di Battista (Insight Global Inc.) 
+§f	        Robert Hunt 
+§f	        Ryan Tyler Rae 
+§f	        Steve Trigger (Insight Global Inc.) 
+§f	        Tanner Pearson (Insight Global Inc.) 
+§f	        Taylor A Feddersen 
+§f	        Tristan H Schneider 
+§f	        Wes Pesetti 
+§f	        Will Van Keulen 
+§f	        Yash Shroff 
+§f	        Ying Guo (TEKsystems Inc.) 
+§f	        Zack Moxley (Insight Global Inc) 
+§f	        Zane Hintzman
+    
+§7Lead Web Developers
+§f	        Joel Bergman 
+§f	        Mark Jawad 
+
+§7Realms Software Engineers
+§f	        Nicholas John Curtis 
+§f	        Roman Timurson (Insight Global Inc.)
+
+§7Lead System Engineers 
+§f	        Jifeng Zhang 
+§f	        Robert Sjedahl 
+§f	        Torbjern Allard
+
+§7Service Software Engineers
+§f	        Alexandre Pretto Nunes 
+§f	        Corey Goodman (Insight Global Inc.) 
+§f	        Dan Mauk 
+§f	        Emily Black 
+§f	        Jahmai OSullivan 
+§f	        Jonas Bergstrem 
+§f	        Kanita Rauniyar 
+§f	        Khaleel Harper 
+§f	        Maksim Ivanov 
+§f	        Mangal Srinivasamurthy (Design Laboratory Inc.) 
+§f	        Maria Katsourani 
+§f	        Matt Shore (Insight Global Inc.) 
+§f	        Michael Kranz 
+§f	        Mike Swartz 
+§f	        Nicholas Burlingame (Insight Global Inc.) 
+§f	        Nico Suc 
+§f	        Norman Skinner (Insight Global Inc.) 
+§f	        Per Axelsson 
+§f	        Patrick McGannon 
+§f	        Petter Gisslen 
+§f	        Rick Payne (Insight Global Inc.) 
+§f	        Stefan Torstensson 
+§f	        Wenlan Yang
+
+[C]§eAudio     
+§7Lead Sound Designer
+§f	        Samuel eberg
+
+§7Sound Designers 
+§f	        Daniel Rosenfeld 
+§f	        Kevin Martinez 
+§f	        Rostislav Trifonov
+
+§7Music composed by
+§f         Daniel Rosenfeld 
+§f         Lena Raine 
+§f         C418
+
+[C]§eVisual Arts
+§7Art Director
+§f         Andy Zibits
+
+§7Art Leads
+§f         Daniel Bjerkefors 
+§f         Joel Garvin 
+§f         Michael Apolis 
+§f         Ryan Sand 
+§f         Telemachus Stavropoulos
+
+§7Artists
+§f         Andrea Sanchez Sepulveda (Randstad) 
+§f         Chi Wong 
+§f         Dylan Sunkel (Collabera) 
+§f         Erin Caswell (eXcell  a division of CompuCom) 
+§f         Jacob Lee (Aquent LLC) 
+§f         Jan Cariaga 
+§f         Jei G Ling (Allegis Group Services Inc.) 
+§f         Kirk Barnett 
+§f         Lilei Yu (Collabera) 
+§f         Linus Chan (TEKsystems Inc.) 
+§f         Mark Hershberger (Apex Systems Inc.) 
+§f         Michael Ray Neumann 
+§f         Peter Sheff 
+§f         Richard Worley 
+§f         Sarah Martino (Insight Global Inc.
+
+§7Lead Technical Artist
+§f         Lisa Hazen 
+
+§7Technical Artist 
+§f         Dylan Piepenbrok 
+
+§7Graphic Artists
+§f         Jasper Boerstra 
+§f         Mattis Grahm
+
+§7Lead Graphic Designers
+§f         Christine Gutierrez
+
+§7Graphic Designers 
+§7	 
+§f         Adrian Leon (TEKsystems Inc.) 
+§f         Dalila Copeland (Randstad)
+
+§7Motion Graphics Designer
+§f         Brandon Korvas (Ten Gun Design Inc.) 
+§f         Kim Petersen 
+§f         Lauren Kohler (TEKsystems Inc.)
+
+§7Animator
+§f         Patrick Rodes (Randstad)
+ 
+[C]§eProduction      
+§7Head of Creator 
+§f         Deanna Hearns 
+
+§7Head of Platform Engineering 
+§f         John Thornton 
+
+§7Head of Minecraft China 
+§f         Travis Howland 
+    
+§7Head of Business Engineering 
+§f         Ryan B Cooper 
+
+§7Head of Creator Marketplace
+§f         Aaron J Buckley 
+
+§7Head of Games 
+§f         Patrick Liu
+
+§7Director of Minecraft.net 
+§f         Saher M Hirji 
+
+§7Executive Producers 
+§f         Allison Matthews 
+§f         Anita Sujarit 
+§f         David Nisshagen 
+§f         Dennis Ries 
+§f         Fredrik Telenius 
+§f         Jessica Zahn 
+§f         Kayla Kinnunen 
+§f         Mike Ammerlaan 
+§f         Roger Carpenter 
+§f         Sara Jansson Bach 
+
+§7Production Managers 
+§f         Gama Aguilar-Gamez 
+§f         Klas Hammarstrem 
+§f         Michael McManus 
+
+§7Producers 
+§f         Adrian estergerd 
+§f         Andrea Lam 
+§f         Ann-Kristin Adwent 
+§f         Anna Lundgren 
+§f         Antonina Khazova 
+§f         Best Liang 
+§f         Carrie Doring 
+§f         Chris Messena (Insight Global Inc.) 
+§f         Damian Finn (Lionbridge) 
+§f         David Siegel 
+§f         Diana Lind (Insight Global Inc.) 
+§f         DJ Stiner 
+§f         Dom Arcamone 
+§f         Elizabeth Batson (insight Global Inc.) 
+§f         Emily Carlson (Insight Global Inc.) 
+§f         Hai Shi 
+§f         Halishia Chugani 
+§f         Ingela Garneij 
+§f         Jewel Chukwufumn  Ifeguni 
+§f         Kara Kono 
+§f         Kasia Swica 
+§f         Katie Ellison 
+§f         Kaya Hatcher 
+§f         Kelly Henckel 
+§f         Kristina M. Ashment 
+§f         Loudon St Hill (Insight Global Inc.) 
+§f         Madeline E Psenka 
+§f         Marcus Bodin 
+§f         Markus Waltral
+§f         Melinda Knight 
+§f         Micah Myerscough 
+§f         Micky Yamaguchi 
+§f         Nathan K Rose 
+§f         Nicole Alers 
+§f         Nikoo Jorjani 
+§f         Riccardo Lenzi 
+§f         Sebastian Falk 
+§f         Stephen A Scott 
+§f         Tia Marie Dalupan-Wong 
+§f         Todd Baldwin 
+
+§7Engineering Managers 
+§f         Erika Renlund 
+§f         Mac Maistrelli
+ 
+§7Organizational Coaches 
+§f         Marie Stelkrantz 
+§f         Yassal Sundman 
+
+§7Release Management Lead 
+§f         David Fries 
+
+§7Release Managers 
+§f         Josh Mulanax 
+§f         Joshua Bullard 
+§f         Kyle Rogers (Randstad)
+
+§7Quality Assurance  
+§f         Matthew Dryden 
+§f         Thommy Siverman
+
+§7Quality Engineers 
+§f         Zackarias Gustavsson 
+
+§7Technical Writers 
+§f         Joshua Jones (Insight Global Inc.) 
+§f         Jeff Kim (Insight Global Inc.)
+
+[C]§eBrand Creative 
+§7Head of Creative Production
+§f         Katharina Hautz 
+
+§7Creative Director 
+§f         Markus Toivonen 
+
+§7Lead Brand Producer 
+§f         esa Skogstrem 
+
+§7Brand Art Director
+§f         Martin Johansson 
+
+§7Brand Producers 
+§f         Hampus Nilsson 
+§f         Jenny Ahnell 
+§f         Lisa Kempe 
+
+§7Brand Assurance Manager 
+§f         Celene Tolentino (Harvey Nash) 
+§f         Dana Mack (Harvey Nash)
+
+§7Lead Consumer Products Producer 
+§f         Milo Bengtsson 
+
+§7Consumer Products Creative Lead 
+§f         Antti Meriluoto 
+
+§7Consumer Products Producer 
+§f         Josefin Olsson 
+
+§7Consumer Products Product Designers 
+§7	 
+§f         Dubora Martins 
+§f         Filip Thoms 
+§f         Sherin Kwan 
+
+§7Lead Media & Events Producer 
+§f         Sarah Carton 
+
+§7Media Producers 
+§f         Adele Major 
+§f         Johan Kvarnermo
+
+§7Events Producer 
+§f         Charlotte Hallberg Angantyr 
+
+§7Games Experience Producers 
+§f         Nicolette Suraga 
+§f         Renee Wikander 
+§f         Tim Mardell 
+
+§7Director of Creative Communications
+§f         Owen Jones 
+
+§7Head of Creative Communications 
+§f         Thomas Wiborgh 
+
+§7Creative Writers 
+§f         Cristina Anderca 
+§f         Kelsey Howard 
+§f         Per Landin 
+§f         Sofia Dankis 
+
+§7Publishing Editor 
+§f         Alex Wiltshire 
+
+§7Head of Social Media 
+§f         Alice Lefgren 
+
+§7Social & Comms Producer 
+§f         Isabella Balk 
+
+§7Social Media Managers 
+§f         Alex Fleck (Adecco) 
+§f         David Ramos (Collabera) 
+§f         Julian Tunru 
+§f         Ross Keatley
+
+§7Art Directors 
+§f         Johan Aronsson 
+§f         Ninni Landin 
+§f         Ola Lanteli 
+§f         Wiktor Persson 
+
+§7Art Lead Events 
+§f         Amanda Strem
+
+§7Art Lead Social 
+§f         Seung Sung 
+
+§7Graphic Designer 
+§f         Markus Karlsson Frost 
+
+§73D Artist / Motion Graphic Designer
+§f         Jesper Hallin 
+
+§7GFX Designer 
+§f         Afshin Affe§ Piran
+
+§7Artist 
+§f         Morten Rasmussen 
+
+§7Gameplay Capture Artist 
+§f         Husein Kurbegovic
+
+[C]User Experience 
+§7User Experience Design Director
+§f         Anna Wendelin 
+
+§7User Experience Design Lead 
+§f         Jonathan Paton Gallina
+
+§7User Experience Designers
+§f         Daniel Feldt 
+§f         Jin Shin 
+§f         Josefine Lindqvist 
+§f         Sandra Bornemark 
+§f         Tom Keen (TEKsystems Inc.) 
+§f         Unn Swanstrem 
+
+[C]Operations 
+§7Franchise Chief Operations Officer
+§f         Annie Chenn 
+
+§7Head of Stockholm Operations
+§f         Ulrika Hejgerd 
+
+§7Head of Franchise Operations
+§f         Josh Bligenstorffer
+
+§7Chief of Staff 
+§f         Amy Stillion 
+
+§7Human Resources 
+§f         Aleksandra Zajac 
+§f         David Hill 
+§f         Ida Utterstrem 
+§f         Ludwig Moberg Edenbeck 
+§f         Maja Samuelsson 
+§f         Sofia Andersson 
+§f         Ulrika Karlsson 
+
+§7Office Manager
+§f         Siri Hoel Andersson
+
+§7Office Coordinators 
+§f         Joel elveroth
+
+§7Executive Business Administrators 
+§f         Erin Decker 
+§f         Judy Wheeler 
+§f         Katy Hanson 
+§f         Lisa Liu
+
+§7Front of House 
+§f         Adam Blenning 
+
+§7IT Manager 
+§f         Cesar Sima Falck 
+§f         Jason Perry Minard
+
+§7IT 
+§f         Adam MacDowall 
+§f         Anton \ Mr\  Wu 
+§f         Carl Johan Swerd 
+§f         Daniel Miller (Insight Global Inc.) 
+§f         Dolly MacKwan 
+§f         Evelina Rollfelt 
+§f         Shoghi Cervantes 
+§f         Yaser Mosavi
+ 
+§7Operations Manager 
+§f         Sheila Ho 
+
+§7Lead Automation Support 
+§f         Matthew C. Moreno
+
+§7Automation Support 
+§f         Chris Ilson (Collabera) 
+§f         Corey Smith (Insight Global Inc.) 
+§f         Johnny Cocks (Collabera) 
+§f         Jordan Crockett (TEKsystems Inc.) 
+§f         Matthew Gustaff (Digital Intelligence Systems LLC) 
+§f         Sean Connolly (Insight Global Inc.) 
+
+[C]Data and Analytics 
+§7Head of Data Science and Analytics 
+§f         Francisco Rius 
+
+§7Data Science Lead 
+§f         Abby Gaddis
+
+§7Data Engineering Lead
+§f         Bill Chism
+
+§7Data Science 
+§f         Anh Ying Lang (Design Laboratory Inc) 
+§f         Bhrigu Shree 
+§f         Conor Maguire (Kelly Mitchell Group Inc.) 
+§f         Cyrus Rustomji (Kelly Mitchell Group Inc.) 
+§f         Dusanka Poljak (Design Laboratory Inc) 
+§f         Forrest Wheeler (Insight Global Inc.) 
+§f         Grant Jenkins 
+§f         Jake Kelly 
+§f         Matthew Skirvin 
+§f         Max Davidson 
+§f         Mel Alleyne 
+§f         Mike Hernandez (Insight Global Inc.) 
+§f         Natalie Selin 
+§f         Swathi Sivadas
+
+§7Data Engineering 
+§f         Bill Klees 
+§f         Dhiraj Nilange 
+§f         Sachin Dekate (Design Laboratory Inc) 
+§f         Smitha Menon 
+
+[C]User Research    
+§7User Research Studio Lead 
+§f         Jerome Hagen
+
+§7User Researcher
+§f         Melissa Boone 
+§f         Olga Zielinska 
+§f         Pablo Morales 
+
+[C]Business & Licensing 
+§7Head of Franchise Business Management 
+§f         Scott Dell'Osso 
+
+§7Head of Partnerships & Licensing 
+§f         Kayleen Walters 
+
+§7Chief Media Officer 
+§f         Vu Bui 
+
+§7Directors of Business Development
+§f         Bob Brennecke 
+§f         Federico San Martin 
+§f         Jeremy Snook 
+§f         Patrick Geuder 
+
+§7Directors of Business Management 
+§f         Amy Zou 
+§f         Michelle Hua 
+§f         Stephen McHugh 
+
+§7Business Managers 
+§f         Adam Lemcio 
+§f         Alina Skripnik 
+§f         Ani Grey 
+§f         Bill Lindell 
+§f         Catherine Hendrix 
+§f         Christy Weckner 
+§f         Daniel Beasley 
+§f         David K Lau 
+§f         Dev Hazarika 
+§f         Eileen Lee 
+§f         Ellen Hahm 
+§f         Eric Taylor 
+§f         Eve Vashkus 
+§f         Julie Olden 
+§f         Leslie Tullis 
+§f         Luis Qiang Liu 
+§f         Maru Zamora 
+§f         Nedra Wilson 
+§f         Nichole Green 
+§f         Rebecca A Miller 
+§f         Stephanie Louie 
+§f         Tess N Opincarne (Amaxra) 
+
+§7Business Development Managers 
+§f         Inga Chamberlain 
+
+§7Business Analyst 
+§f         Keiko Ramer (Apex Systems Inc.) 
+§f         Kristin Grein 
+§f         Zheng Wang (Populus Group  LLC)
+
+§7Japan Country Manager 
+§f         Yutaka Noma 
+
+§7Director of Partner Management
+§f         Todd Stevens 
+
+§7Partner Program Manager 
+§f         Quinn Richter 
+
+§7Content Coordinators 
+§f         Oskar Thysell 
+
+§7Program Managers
+§f         Bryan G. Bonham 
+§f         Christopher Dauchot (Insight Global Inc.) 
+§f         Gregory Walls (CompuCom Systems Inc) 
+§f         John C. Mercil (CompuCom Systems Inc) 
+§f         Joshua Ayala (Insight Global Inc.) 
+§f         Kaiwen Li (Populus Group  LLC) 
+§f         Laylah Stanley Si Bulman 
+§f         Liz Butowicz (Bluehawk LLC) 
+§f         Mark Fredo (Aerotek Inc) 
+§f         Natalie Haggin (Simplicity Consulting Inc) 
+§f         Steven Hosey (Simplicity Consulting Inc) 
+§f         Susie Tinker 
+§f         Vince-Davis Espino (Insight Global Inc.) 
+§f         Wendy Gorton 
+
+§7Studio Compliance Lead 
+§f         Eric Odell-Hein
+
+§7Studio Compliance Analyst 
+§f         Justin Ray (Design Laboratory Inc)
+
+§7Intellectual Property Enforcement Lead 
+§f         Gaylon Blank 
+
+§7Category Managers 
+§f         Audrey Searcy 
+§f         Emily Clock 
+§f         Georgia Marra 
+§f         Hanna Willis 
+§f         Shabnam Elmi (Jeffrey M Consulting LLC) 
+
+[C]Player Operations 
+§7Director of Player Support 
+§f         Anne Quaranta 
+
+§7Director of Community
+§f         Nea Aime Rollan 
+
+§7Community Managers
+§f         Cameron Thomas 
+§f         Jay Wells 
+§f         Joel Sasaki 
+§f         Kristina Horner 
+§f         Lindsey Schaal (Apex Systems Inc) 
+§f         Matt Gartzke 
+§f         Trella Rath (Corestaff)
+
+§7Customer Support Program Manager 
+§f         Jon-Eric L. Swigart (Collabera)
+ 
+§7Customer Support Lead 
+§f         Jen Pedersen 
+
+§7Customer Support
+§f         Kyle McMurtry (TEKsystems Inc.) 
+
+[C]Marketing 
+§7Head of Marketing 
+§f         Jessica Freeman 
+
+§7Marketing Directors 
+§f         Fergus Lynch 
+§f         Jeanie DuMont 
+
+§7Marketing Managers 
+§f         Anton Maslennikov 
+§f         Ashley Davidson (Simplicity Consulting Inc) 
+§f         Egil G. Gloersen 
+§f         Gabi Ibarra (Simplicity Consulting Inc) 
+§f         Gaylord Escalona 
+§f         Jaime Limon 
+§f         Jeff Rivait 
+§f         Katie Penza 
+§f         Lindsay Auten (Simplicity Consulting Inc) 
+§f         Melissa Jenkins (Ten Gun Design Inc.) 
+§f         Nathaniel Wipfler 
+§f         Nick Ketter 
+§f         Sara Cornish
+[C]Legal
+§7Head of Legal 
+§f         Nick Morgan
+
+§7Legal Counsel
+§f         Kari Annand (Snodgrass Annand) 
+§f         Maya Yamazaki (Davis Wright Tremaine) 
+§f         Tim Han 
+§f         Tricia Geyer 
+[C]Communications 
+§7Chief Storyteller 
+§f         Lydia Winters
+
+§7Senior Media Producers 
+§f         Carina Petersson
+ 
+§7Producers 
+§f         Sofia Orrheim 
+
+§7Directors of Global Public Relations
+§f         Regan O’Leary 
+
+§7Global Public Relations Managers 
+§f         John Schork 
+§f         Rebecca Gordius 
+
+§7Assembly Media Inc. 
+§f         Alli Cohen 
+§f         Cristian Delgado 
+§f         Erin Dwyer 
+§f         Jesse Steinberg 
+§f         Richard Chen 
+§f         Vanessa Mora
+
+§7Lead Producer - Brand Experience
+§f         Karim Walldén 
+
+§7Web Design 
+§f         Paul Madlon (Ten Gun Design Inc.) 
+§f         Taylor Kasony (eXcell  a division of CompuCom)
+
+§7Web Content Manager 
+§f         Joe Corrigan (Ten Gun Design Inc.)
+[C]Finance 
+§7Director of Finance
+§f         Marina Kostesic
+
+§7Senior Finance Manager
+§f         Evan Dowdell 
+
+§7Financial Accountants 
+§f         Josefina Axelsson 
+§f         Natalie Levinsson 
+§f         Strefan Lyrmark
+
+[C]Studios Quality Team - Microsoft
+§7Director of Quality
+§f         Jimmy Bischoff 
+
+§7Quality Manager 
+§f         Rob Straavaldson
+
+§7Quality Leads 
+§f         Craig Marshall 
+§f         Dan Pipinich 
+§f         Hakim Ronaque 
+§f         Michael McCormack 
+§f         Rich Levy 
+§f         Tyler Moeller
+
+§7Quality Engineers 
+§f         Fiona Belmont 
+§f         Joe Whitman 
+§f         Ryan Mayes
+
+§7Quality Data Analysis & Engineering 
+§f         Chelsi Hohnbaum 
+§f         Lisa Porter 
+§7Software Engineers 
+§f         Jay Baxter 
+
+§7Quality Analysts 
+§f         Agata Marciniak 
+§f         Aidan Bower 
+§f         Ben Weber 
+§f         Dalrek Davis 
+§f         Erik Davis 
+§f         Mark McAllister 
+§f         Melissa Moorehead 
+§f         Michelle Hyde 
+§f         Mike Su 
+§f         Mimi Guarino 
+§f         Tom Brisbane 
+§f         Tom French 
+
+§7Special Thanks 
+§f         Alex Luschen Executive Business Administrator 
+§f         Allen Horton Technology and Infrastructure 
+§f         Andrew Franklin Outsourcing Manager 
+§f         Dante Carrasco Business Manager 
+§f         David Boker Director XGS Business Operations 
+§f         James Fry Quality Manager  Studios Quality UK 
+§f         Jonny Stacey Data Engineering  Studios Quality UK 
+§f         Zoe Harrop - Senior Business Coordinator  Studios Quality UK   
+§f         Studios Quality Team - US Teams 
+
+§7Test Manager 
+§f         Tom Dieterich (Experis) - Test Manager  Tempe 
+
+§7Software Test Engineering Leads
+§f          Bob Green (Experis) 
+§f          Chris Wilson (Experis) 
+§f          Maria Berube (Experis) 
+ 
+§7Software Test Engineers 
+§f          Antoine Brown (Experis) 
+§f          Benjamin Sousa (Experis) 
+§f          Eric Saxon (Experis) 
+§f          James Lawrence (Experis) 
+§f          Jared Barnhill (Experis) 
+§f          Jessica Armstrong (Experis) 
+§f          Kai VanDrunen (Experis) 
+§f          Kaitlyn Grace (Experis) 
+§f          Norah Hogoboom (Insight Global Inc.) 
+§f          Robert Bergeron (Experis) 
+§f          Robert Cleveland (Experis) 
+§f          Samuel Tharp (Experis) 
+§f          Sean Dugan (Experis) 
+§f          Traci Jenkins (Experis) 
+ 
+§7Test Associates 
+§f          Chris Youngs (Experis) 
+§f          Jared Arbaugh (Experis) 
+§f          Jocylyn Engstrom (Experis) 
+§f          Jonathan Lee (Experis) 
+§f          Jonathon Ervin (Experis) 
+§f          Justin Smick (Experis) 
+§f          Kayla Cherry (Experis) 
+§f          Marvin Melitante (Experis) 
+§f          Peter Lovely (Experis) 
+§f          Rita-Lynn Dibble (Experis) 
+§f          Ryan Atwater (Experis) 
+§f          Tori Gasca (Experis) 
+ 
+§7Special Thanks 
+§f          Aaron Brindell (Experis) 
+§f          Aaron Ingram (Experis) 
+§f          Brian Canning (Experis) Test Manager  Tempe 
+§f          Carol Stearns (Experis) 
+§f          Erica Davis (Experis) 
+§f          Frank Criscione Experis) 
+§f          Gavin Kennedy (Experis) 
+§f          Jay Piette (Experis) Test Manager  Tempe 
+§f          Jeffrey Guyton (Insight Global Inc.) Account Manager 
+§f          Julie Loucks (Experis) 
+§f          Lucas Rathburn (Experis) 
+§f          Mark Medlock (Experis) 
+§f          Paul Gradwohl (Experis) 
+§f          Theresa Pudenz (Experis) 
+§f          Zachary Bohnenkamp (Experis) Program Manager
+
+§7Special Thanks
+§f          Albert Pastore - Director of Business Development  Music and Talent
+§f          4J Studios 
+§f          Andrew Pritchard - Release Management 
+§f          Dan Roque Creature Developer 
+§f          Daniel Brynolf 
+§f          John Olarte (DrZhark) - Creature Developer 
+§f          Julian Gough - Writer 
+§f          Kent Christian Jensen Creature Developer 
+§f          Pontus Hammarberg 
+§f          Reza Elghazi - Developer Account Manager 
+§f          Stephanie Golden (Insight Global Inc.) Account Manager 
+§f          The PlayFab Team 
+§f          The Xbox Live Team 
+[C]§7Development Partner: Lionbridge Quality - Poland Team
+§f         Test Director 
+§f          Michae Beoński (Lionbridge) 
+ 
+§7Senior Global Test Manager 
+§f          Grzegorz Kohorewicz (Lionbridge) 
+ 
+§7Senior Test Manager
+§f          Mateusz Kaeuea (Lionbridge) 
+ 
+§7Test Leads 
+[C]
+§f          Beata Jastrzebska (Lionbridge) 
+ 
+§7Team Leads 
+[C]
+§f          Kamil Kostrzewa (Lionbridge) 
+§f          Michae Seawek (Lionbridge) 
+§f          Sebastian Polanica (Lionbridge) 
+§f          Wojciech Kujawa (Lionbridge) 
+ 
+§7Compliance Leads 
+§f          eukasz Mikusek (Lionbridge) 
+ 
+§7Software Test Engineers
+§f          Adam Reczkowski (Lionbridge) 
+§f          Agata Dzideczek (Lionbridge) 
+§f          Damian Gabrye (Lionbridge) 
+§f          Iwona Cieela (Lionbridge) 
+§f          Jaroseaw eebrowski (Lionbridge) 
+§f          Joanna Walkowiak-Pachnik (Lionbridge) 
+§f          Karim Zemirli (Lionbridge) 
+§f          Kinga Izdebska (Lionbridge) 
+§f          eukasz Jankowski (Lionbridge) 
+§f          Maciej eajszczak (Lionbridge) 
+§f          Marcin Roseon (Lionbridge) 
+§f          Marcin Seoniewski (Lionbridge) 
+§f          Mariusz Gil (Lionbridge) 
+§f          Michae Cieelak (Lionbridge) 
+§f          Patryk Telus (Lionbridge) 
+§f          Piotr Jasiński (Lionbridge) 
+§f          Tomasz Bokotko (Lionbridge) 
+§f          Zofia Lenarczyk (Lionbridge) 
+ 
+§7Compliance Test Engineers 
+§f          Witold Januszewski-Skup (Lionbridge) 
+ 
+§7Test Associates 
+§f          Ada Kierzkowska (Lionbridge) 
+§f          Adam Krasieńko (Lionbridge) 
+§f          Adam Soetanowski (Lionbridge) 
+§f          Adam Zawadzki (Lionbridge) 
+§f          Adrian Jakóbczak (Lionbridge) 
+§f          Agnieszka Sobieszuk (Lionbridge) 
+§f          Albert Wujkowski (Lionbridge) 
+§f          Aleksander Bratkowski (Lionbridge) 
+§f          Aleksander Skiba (Lionbridge) 
+§f          Aleksandra Traczyk (Lionbridge) 
+§f          Andrzej Tkaczenko (Lionbridge) 
+§f          Anna Kacprzak (Lionbridge) 
+§f          Antoni Gazecki (Lionbridge) 
+§f          Antoni Wiatrowski (Lionbridge) 
+§f          Arek Czarnecki (Lionbridge) 
+§f          Arkadiusz Grzanka (Lionbridge) 
+§f          Artur Kulesza (Lionbridge) 
+§f          Barteomiej Kowalik (Lionbridge) 
+§f          Barteomiej Krupiński (Lionbridge) 
+§f          Barteomiej Seodkowski (Lionbridge) 
+§f          Barteomiej eukowski (Lionbridge) 
+§f          Bartosz Bińka (Lionbridge) 
+§f          Bartosz Jamroziński (Lionbridge) 
+§f          Bartosz Kuchta (Lionbridge) 
+§f          Bartosz Waleekiewicz (Lionbridge) 
+§f          Beaeej Rajewski (Lionbridge) 
+§f          Cezary Chobot (Lionbridge) 
+§f          Daniel Bojar (Lionbridge) 
+§f          Daniel Deeczew (Lionbridge) 
+§f          Daniel Koceba (Lionbridge) 
+§f          Daniel Kuchciński (Lionbridge) 
+§f          Daniel Moczydeowski (Lionbridge) 
+§f          Daniel Niewiadomski (Lionbridge) 
+§f          Daria Gajowniczek (Lionbridge) 
+§f          Dawid Dudasz (Lionbridge) 
+§f          Dominik Haeatkiewicz (Lionbridge) 
+§f          Eliza Duda (Lionbridge) 
+§f          Eryk Czerski (Lionbridge) 
+§f          Eugeniusz Kosieradzki (Lionbridge) 
+§f          Filip Maciejewski (Lionbridge) 
+§f          Filip Sobczak (Lionbridge) 
+§f          Gabriel Gaeuszka (Lionbridge) 
+§f          Grzegorz Irek (Lionbridge) 
+§f          Grzegorz Wilkoeek (Lionbridge) 
+§f          Grzegorz Zióeek (Lionbridge) 
+§f          Hubert Karwicki (Lionbridge) 
+§f          Ignacy Kukliński (Lionbridge) 
+§f          Jacek Zdzymira (Lionbridge) 
+§f          Jakub Cymbalista (Lionbridge) 
+§f          Jakub Czerwiński (Lionbridge) 
+§f          Jakub Górnicki (Lionbridge) 
+§f          Jakub Kwiatkowski (Lionbridge) 
+§f          Jakub Oedak (Lionbridge) 
+§f          Jakub Sawicki (Lionbridge) 
+§f          Jakub Zdzieborski (Lionbridge) 
+§f          Jakub Zgajewski (Lionbridge) 
+§f          Jan Tworkowski (Lionbridge) 
+§f          Joanna Jablonska (Lionbridge) 
+§f          Justyna Gorzkowska (Lionbridge) 
+§f          Kacper Kobyliński (Lionbridge) 
+§f          Kamil Konarski (Lionbridge) 
+§f          Kamil Marut (Lionbridge) 
+§f          Kamil Szczepański (Lionbridge) 
+§f          Karol Freczek (Lionbridge) 
+§f          Karol Mikusek (Lionbridge) 
+§f          Karol Samek (Lionbridge) 
+§f          Katarzyna Moskalewicz (Lionbridge) 
+§f          Katarzyna Smektalska (Lionbridge) 
+§f          Konrad Czaplewski (Lionbridge) 
+§f          Krzysztof Górski (Lionbridge) 
+§f          Krzysztof Jeeak (Lionbridge) 
+§f          Krzysztof euczyński (Lionbridge) 
+§f          Krzysztof Poeee (Lionbridge) 
+§f          Krzysztof Rozwadowski (Lionbridge) 
+§f          Krzysztof Staniewski (Lionbridge) 
+§f          Krzysztof Uecieowski (Lionbridge) 
+§f          Krzysztof Wieniewski (Lionbridge) 
+§f          Luisa Cordero-Polańska 
+§f          eukasz Marek (Lionbridge) 
+§f          eukasz Metrak (Lionbridge) 
+§f          eukasz Michalak (Lionbridge) 
+§f          eukasz Stepkowski (Lionbridge) 
+§f          Maciej Gończ (Lionbridge) 
+§f          Maciej Piórnik (Lionbridge) 
+§f          Maciej Ryznar (Lionbridge) 
+§f          Maciej Siemieniec (Lionbridge) 
+§f          Magdalena Maciejewska (Lionbridge) 
+§f          Magdalena Marek (Lionbridge) 
+§f          Magdalena Wardak (Lionbridge) 
+§f          Maksymilian Kowalski (Lionbridge) 
+§f          Maksymilian Wolf (Lionbridge) 
+§f          Malwina Zacharek (Lionbridge) 
+§f          Marcin Bartmański (Lionbridge) 
+§f          Marcin Klimek (Lionbridge) 
+§f          Marcin Kusznieruk (Lionbridge) 
+§f          Marcin Mycka (Lionbridge) 
+§f          Marcin Szydeo (Lionbridge) 
+§f          Mariusz Podgórski (Lionbridge) 
+§f          Mateusz Janiszewski (Lionbridge) 
+§f          Mateusz Miksa (Lionbridge) 
+§f          Mateusz ewiecki (Lionbridge) 
+§f          Melchior Lewandowski-Woeosz 
+§f          Michae Juszczyk (Lionbridge) 
+§f          Michae Nowak (Lionbridge) 
+§f          Michae Szewczyk (Lionbridge) 
+§f          Mikoeaj Grueliński (Lionbridge) 
+§f          Natalia Niedziela (Lionbridge) 
+§f          Olgierd Ruszkiewicz (Lionbridge) 
+§f          Pamela Freckowiak  (Lionbridge) 
+§f          Patrycja Kopie (Lionbridge) 
+§f          Patryk Kowalczyk (Lionbridge) 
+§f          Patryk Rukee (Lionbridge) 
+§f          Patryk-Piotr Rosiński (Lionbridge) 
+§f          Paulina Paedyna (Lionbridge) 
+§f          Paulina Siewierska (Lionbridge) 
+§f          Pawee Biaeczak (Lionbridge) 
+§f          Pawee Gos (Lionbridge) 
+§f          Pawee Kaleta (Lionbridge) 
+§f          Piotr Burkowski (Lionbridge) 
+§f          Piotr Gaeecki (Lionbridge) 
+§f          Piotr Gruszczyński (Lionbridge) 
+§f          Piotr eatyński (Lionbridge) 
+§f          Piotr Retel (Lionbridge) 
+§f          Piotr Witkowski (Lionbridge) 
+§f          Rafae Brzostowski (Lionbridge) 
+§f          Rafae Pruszkowski (Lionbridge) 
+§f          Robert Badurka-Raniecki (Lionbridge) 
+§f          Robert Jordanek (Lionbridge) 
+§f          Robert Wypasek (Lionbridge) 
+§f          Roman Zajec (Lionbridge) 
+§f          Sebastian Marek (Lionbridge) 
+§f          Szczepan Grabowski (Lionbridge) 
+§f          Szymon Pniak (Lionbridge) 
+§f          Tomasz Selwat (Lionbridge) 
+§f          Weronika Szajnfeld (Lionbridge) 
+§f          Wiktor Irek (Lionbridge) 
+§f          Wojciech Olszewski (Lionbridge) 
+§f          Wojciech Skrzypkowski (Lionbridge) 
+§f          Wojciech eukowski (Lionbridge) 
+§f          Zuzanna Gieszcz (Lionbridge) 
+§f          Zuzanna Radomska (Lionbridge) 
+§f          Zuzanna Wielkopolan (Lionbridge) 
+ 
+§7Compliance Test Associates
+§f          Adam Czajkowski (Lionbridge) 
+§f          Adrian Zalewski (Lionbridge) 
+§f          Arkadiusz Grzesiński (Lionbridge) 
+§f          Bartosz Debrowski (Lionbridge) 
+§f          Jakub Malinowski (Lionbridge) 
+§f          Kaja Faber (Lionbridge) 
+§f          Maciej Ginter (Lionbridge) 
+§f          Maciej Rodak (Lionbridge) 
+§f          Marcin Baea (Lionbridge) 
+§f          Michae Tomaszewski (Lionbridge) 
+§f          Oskar eurawski (Lionbridge) 
+§f          Piotr Oreowski (Lionbridge) 
+§f          Staniseaw ewiderski (Lionbridge) 
+§f          Sviatoslav Porubanskyi (Lionbridge) 
+ 
+§f         Special Thanks
+§f          Dariusz Sokoeowski (Lionbridge) 
+§f          Evan Wright (Lionbridge) 
+§f          Matt Whiting (Lionbridge) 
+§f          Michael Friend (Lionbridge) 
+§f          Szymon Walicki (Lionbridge) 
+§f          Tomasz Pucyk (Lionbridge) 
+§f          Tugdual Delisle (Lionbridge)
+
+[C]§7Quality - UK Team
+§f         Test Manager
+§f         Richard H. Jones (Lionbridge) 
+ 
+§7Compliance Test Engineer 
+§f          Lee-Roy Dunn (Lionbridge) 
+§f          Nick Dorsett (Lionbridge) 
+ 
+§7Data Engineering 
+[C]
+§f          Patrick Fraioli
+
+[C]§7Development Partner: BBI
+§7Programmer
+§f          Curtis Hodgins 
+§f          Devon Plourde 
+§f          Michelle Rocha 
+§f          Stevie Giovanni 
+ 
+§7Associate Programmer 
+§f          Jacky Cai 
+ 
+§7UI Artist 
+§f          Richelle Brunt 
+ 
+§7UX Designer
+§f          Sam Flores 
+ 
+§7QA Analyst
+§f          Jamie Cheung 
+§f          Paul Pera
+
+[C]§7Development Partner: Disbelief
+§f          Eric Nguyen 
+§f          Grue Robinson 
+§f          Tim Hagberg
+
+[C]§7Development Partner: Skybox
+§f          Alex MacKay 
+§f          Alexandra Kabak 
+§f          Alfonso Mueoz 
+§f          Amandeep Malhi 
+§f          Amy Zhao 
+§f          Anthony Wong 
+§f          Arta Seify 
+§f          Benny Wang 
+§f          Casey White 
+§f          Chander Siddarth 
+§f          Colin Basnett 
+§f          David Getley 
+§f          Derek MacNeil 
+§f          Dylan Rueter 
+§f          Eser Kokturk 
+§f          Evgeny Kuznetsov 
+§f          Faith Chow 
+§f          Gustav Louw 
+§f          Hayden Hur 
+§f          Ilya Solnyshkin 
+§f          Jaegar Sarauer 
+§f          Jai Kristjan 
+§f          Jason Allen 
+§f          Jeffrey Chou 
+§f          Jeffrey Yamasaki 
+§f          Jennifer Barron 
+§f          Jiazhi Chang 
+§f          John Ferguson 
+§f          Jon Head 
+§f          Josue Pacheco 
+§f          Jun Luo 
+§f          Justin Tim 
+§f          Leo Hewitt 
+§f          Leonardo Stark 
+§f          Madeeha Ahmed 
+§f          Michel Morin 
+§f          Mingzhuo Zhang 
+§f          Nathan Lacey 
+§f          Oliver Cannon 
+§f          Orhun Erkilic 
+§f          Rick Huang 
+§f          Sam Martens 
+§f          Shiva Gupta 
+§f          Shyang Kong 
+§f          Sim Sahin 
+§f          Steve Silverster 
+§f          Steven Wong 
+§f          Tina Dhaliwal 
+§f          Todd Saharchuk 
+§f          Vassil Anguelov 
+§f          Vicky Huang 
+§f          Vivian Ortenzi 
+§f          Yaw Obiri-Yeboah 
+§f          Younggi Kim 
+§f          Zike Wu
+
+[C]§7Development Partner:
+§f          Red Lens Games
+   
+§7President 
+[C]
+§f          Jared Noftle 
+ 
+§7Producer 
+[C]
+§f          Allie Murdock 
+ 
+§f         Lead Software Engineers
+§f          Kyle Walsh 
+§f          Nathan Carlson 
+
+§7Software Engineers 
+§f          Alan Nelson 
+§f          Andre Tremblay 
+§f          Arend Danielek 
+§f          Dane Curbow 
+§f          Kelby Lawson 
+§f          Ryan Edgemon 
+§f          Stephen Chiavelli 
+§f          Tim Royal 
+§f          Zach Bowman
+
+[C]§7Development Partner: Virtuosity
+§f         Game Developers
+§f          Aishwarya Jayabal (Virtuosity) 
+§f          Ganesh Sethy (Virtuosity) 
+§f          Janani Senrayaperumal (Virtuosity) 
+§f          Maha Srinivasan (Virtuosity) 
+§f          Nandha Arulanandam (Virtuosity) 
+§f          Nazia Nazia (Virtuosity) 
+§f          Packiyanath Sivathanu (Virtuosity) 
+§f          Prabhu Venkatraman Iyer (Virtuosity) 
+§f          Shagun Sharma Tamta (Virtuosity) 
+§f          Shanmugam Sanjay (Virtuosity) 
+§f          Sheena Mathew (Virtuosity) 
+§f          Sripriya Gunasekaran (Virtuosity) 
+§f          Sriram Sreenivasan (Virtuosity) 
+§f          Sumit Kumar Suman (Virtuosity) 
+§f          Swati S Thakar (Virtuosity) 
+§f          Vivek Kumar (Virtuosity) 
+ 
+§f         Producers
+§f          Chokkalingam Ramu Kuppaswamy (Virtuosity) 
+§f          Shanthi Kanchibhotla (Virtuosity)
+
+§7Mojang Alumni     
+§7Original Creator of Minecraft
+§f          Markus Persson 
+ 
+§7Head of Minecraft
+§f          Matt Booty 
+ 
+§7Head of Minecraft Atlas 
+§f          Deirdre Quarnstrom 
+ 
+§7Chief Executive Officer
+§f          Carl Manneh 
+ 
+§7Chief Finance Officer 
+§f          Karin Severinson 
+ 
+§7Chief Product Officer
+§f          Olof Carlson Sandvik 
+ 
+§7Project Director
+§f          Jakob Porsér 
+ 
+§7Production Director
+§f          Daniel Kaplan 
+ 
+§7Game Director
+§f          Henrik Pettersson 
+ 
+§7Game Designers
+§f          Miko Charbonneau 
+§f          Colten Murphy (TEKsystems Inc.) 
+§f          Jesse A Hibbs (TEKsystems Inc.) 
+§f          Melissa Andrews (Insight Global Inc.) 
+ 
+§7Chief Technology Officer
+§f          Rikard Herlitz 
+ 
+§7Game Developers 
+§f          Alexander Kandalaft (Insight Global Inc.) 
+§f          Andrew Griffin (Insight Global Inc.) 
+§f          Aravindan Aarumugam (Virtuosity) 
+§f          Aron Nieminen 
+§f          Benjamin Arnold (Insight Global Inc.) 
+§f          Campbell Tran 
+§f          Chris Barrett (Apex Systems Inc) 
+§f          Christian Westman 
+§f          Clayton Vaught 
+§f          Daniel Frisk 
+§f          Daniel Wustenhoff 
+§f          Emily Rizzo (Insight Global Inc.) 
+§f          Irina Koulinitch 
+§f          Isaac de la Vega 
+§f          Jagannathan Mannu (Virtuosity) 
+§f          Jakob Pogulis 
+§f          Jeff “Dextor§ Blazier 
+§f          Jeffrey Kumley (Insight Global Inc.) 
+§f          Joachim Larsson 
+§f          Johan Bernhardsson 
+§f          Josh Letellier 
+§f          Jon Maiga 
+§f          Joshua B Davis 
+§f          Luis A Angel Mex 
+§f          Magnus Bentling 
+§f          Maria Lemón 
+§f          Markus Arvidsson 
+§f          Michael “Mikaus“ Whiteley 
+§f          Michael Klopfenstein (Insight Global Inc.) 
+§f          Nathan Gilbert 
+§f          Patrick O’Leary 
+§f          Rakshith Murthy (Virtuosity) 
+§f          Rui Xie (Insight Global Inc.) 
+§f          Ryan Holtz 
+§f          Sina Tamanna 
+§f          Spencer Peterson (Insight Global Inc.) 
+§f          Subramani Ramanathan (Virtuosity) 
+§f          Sumith Kumar (Virtuosity) 
+§f          Tobias Mellstam 
+§f          Tomas Guimbretière 
+§f          Uma Senthil Raj (Virtuosity) 
+§f          Vignesh Masilamani (Virtuosity) 
+§f          Cullen Waters 
+ 
+§7Lead UI Developers
+§f          Sebasian Hindefeldt 
+ 
+§7UI Developers
+§f          Dario Vodopivec 
+§f          Emelie Sidesie 
+§f          Michael Novén 
+§f          Kirill Mikhel 
+ 
+§7Additional Programming
+§f          Elliot 'Hippoplatimus' Segal 
+§f          Paul Spooner 
+§f          Ryan 'Scaevolus' Hitchman 
+ 
+§7Launcher
+§f          Anders Rosén 
+§f          Carl Westin 
+§f          David Zevallos 
+ 
+§7Architects 
+§f          Tommaso Checchi 
+ 
+§7Lead Bedrock Software Developers
+§f          Aaron Heysse 
+§f          Adrian LaVallee 
+§f          Sebastian Hindefelt 
+§f          Timothy J Schutz 
+ 
+§7Software Developers
+§f          Arend Danielek (TEKsystems Inc.) 
+§f          Dave Stevens 
+§f          David “Lion§ Kimbro (Insight Global Inc.) 
+§f          Elijah J Emerson 
+§f          Jeffrey J Jou (Insight Global Inc.) 
+§f          John Estess (Randstad) 
+§f          Jonathan M Ortiz 
+§f          Jorge Antonio Jimenez (Design Laboratory Inc) 
+§f          Karim A Luccin 
+§f          Lisa Sturm 
+§f          Mark Rowland (Collabera) 
+§f          Matthew Guze (WaferWire Cloud Technologies) 
+§f          Maxwell Orth (Insight Global Inc.) 
+§f          Oskar Carlbaum 
+§f          Semih Energin 
+§f          Taylor M Riviera 
+§f          Rob Austin 
+§f          David Westen 
+ 
+§7Realms Developers
+§f          Alexander Johansson 
+§f          Amir Moulavi 
+§f          Arockia Stanly (Virtuosity) 
+§f          Barani Dharan (Virtuosity) 
+§f          David Marby 
+§f          Erik Bylund 
+§f          Johnny Sjee 
+§f          Magnus Jederberg 
+§f          Mats Henricson 
+§f          Philip Vieira 
+ 
+§7Lead System Engineers
+§f          Tom Miles 
+§f          Tomas Sommar 
+ 
+§7System Engineers
+§f          Hazen Miller (Insight Global Inc.) 
+§f          Louis A Castaneda (Insight Global Inc.) 
+§f          Geof Sawaya (Collabera) 
+ 
+§7Service Software Engineers
+§f          Joakim Ejenstam 
+§f          Anders Martini 
+§f          Don S Frazier II 
+§f          Guillaume Le Chenadec 
+§f          Haley Eisenshtadt 
+§f          Nathan Sosnovske 
+§f          Stacy J Chen 
+ 
+§7Software Engineers
+§f          Evelyn Collier (Insight Global) 
+§f          Michael Andersson 
+§f          Robyn R To 
+ 
+§7System Engineers
+§f          Robert Thresher (Collabera) 
+ 
+§7System Developers
+§f          Christoffer Hammarstrem 
+§f          Dodge Lafnitzegger (Insight Global Inc.) 
+§f          Leonard Gram 
+§f          Martin Odhelius 
+ 
+§7Art Director
+§f          Brad Shuber 
+ 
+§7Art Lead
+§f          Sarah Kisor 
+ 
+§f         3D/VFX
+§f          Elin elund Forsling 
+ 
+§7Artists
+§f          Amanda Cook (Harvey Nash) 
+§f          Bart Kaufman (Randstad) 
+§f          Branden Brushett (Aquent LLC) 
+§f          Jules Norcross (Aquent LLC) 
+§f          Kelly Greene (CompuCom Systems Inc) 
+§f          Kristen Malone (Randstad) 
+§f          Michael R Fiedler (Insight Global Inc.) 
+§f          Miki Bishop (Randstad) 
+§f          Patrick A Rodes (Insight Global Inc.) 
+ 
+§7Graphic Artists
+§f          Jerica Harada (TEKsystems Inc.) 
+§f          Kristoffer Zetterstrand 
+§f          Poi Poi Chen 
+ 
+§7Additional Graphics
+§f          Jonatan Pelje 
+§f          Mariana Graham Ramirez 
+ 
+§7Motion Graphics Designer
+§f          Gabe Philbin (Randstad) 
+ 
+§7Sound Designer
+§f          Peter Hont 
+§f          Shauny Jang (Insight Global Inc.) 
+ 
+§7Executive Producer
+§f          Erin Krell 
+ 
+§7Producers
+§f          Alen Voljevica 
+§f          Anthony Hanses (Insight Global Inc.) 
+§f          Austin Maestre 
+§f          Chris Casanova 
+§f          Dani Flores (Insight Global Inc.) 
+§f          Dayana Sharshukova (Aquent LLC) 
+§f          Decker Geddes (Insight Global Inc.) 
+§f          Dejan Dimic 
+§f          Isabella Arningsmark 
+§f          Jason Rice 
+§f          Jennifer Lee (Insight Global Inc.) 
+§f          Johannes Fridd 
+§f          Juan Gril 
+§f          Justin Woods 
+§f          Justine Loong 
+§f          Marcus Rundstrem 
+§f          Matt Rodgers (eXcell  a division of CompuCom) 
+§f          Nick Severson 
+§f          Robin Linder 
+§f          Sara Lidberg 
+§f          Thomas Feng 
+§f          Trevor McCann (Yoh Services LLC) 
+§f          William C Meyer (Pivotal Consulting LLC) 
+§f          Yesernia Cisneros 
+ 
+§7Assistant Producer
+§f          Warren Loo 
+ 
+§7Release Manager
+§f          Brogan Irwin (Virtuosity) 
+§f          Dustin Wood (Design Laboratory Inc) 
+ 
+§7Merchandise Art Director 
+[C]
+§f          Alexis Holmqvist 
+ 
+§7Product Designer
+§f          Jennifer Hammervald 
+ 
+§7User Experience Design Director
+§f          Stephen Whetstine 
+§f          Tobias Ahlin 
+ 
+§7User Experience Designer
+§f          Connor Tompsett (CompuCom Systems Inc) 
+§f          Lily Ekman 
+§f          Oscar Nilsson 
+ 
+§7Chief of Staff
+§f          Andrew J. Adamyk 
+ 
+§f         Executive Business Administrators 
+[C]
+§f          Cathy Wickersham 
+§f          Darla J Barrett 
+ 
+§f         Business Administrators
+§f          Shae M. Flanigan (C2S Technologies Inc) 
+ 
+§7Office Managers
+§f          Alex Andersson 
+§f          Charlotte Wredesje 
+§f          Jill Curran 
+§f          Linn Hultman 
+§f          Mikaela Prim 
+ 
+§7Reception 
+§f          Chaimae Truving 
+ 
+§7Data Science & Analytics Lead
+§f          Warren Durrett 
+ 
+§7Data Science & Analytics
+§f          Abby Jaloway (National Business Innovations) 
+§f          Brynjólfur Erlingsson 
+§f          Darin LaSota (Design Laboratory Inc) 
+§f          Ethan Batson (Design Laboratory Inc) 
+§f          Gil Darves (Design Laboratory Inc) 
+§f          Jari Williams 
+§f          Murali Nagarajan (Design Laboratory Inc) 
+§f          Nick Martin (Design Laboratory Inc) 
+§f          Patrick Worthey (Design Laboratory Inc) 
+§f          Pawan Panaganti (Design Laboratory Inc) 
+§f          Srini Viswanatham (Design Laboratory Inc) 
+§f          Tim Ross (Simplicity Consulting Inc) 
+§f          Yuvaraj Duraisamy (Design Laboratory Inc) 
+ 
+§7Directors of Business Development
+§f          Cherie D Lutz 
+ 
+§7Directors of Business Planning
+§f          Adam Tratt 
+ 
+§7Business Managers
+§f          Bill Wu 
+§f          Claudine Ursino (Simplicity Consulting Inc) 
+§f          Dennis Laviolette 
+§f          Vanessa Dagnino (Simplicity Consulting Inc) 
+ 
+§7Business Analysts
+§f          Alvin M Chin (Populus Group  LLC) 
+ 
+§7Minecraft Content Coordinators
+§f          Adam Martinsson 
+§f          Sara Lempieinen 
+ 
+§7Program Manager
+§f          Amber Wu (Shang Hai Wei Chuang Ruan Jian) 
+§f          Meenoo Rami 
+§f          Maria Olekheyko 
+§f          Timothy J Ross (Simplicity Consulting Inc) 
+ 
+§7Creative Director
+§f          John Hendricks 
+ 
+§7Creative Communications Assistant 
+[C]
+§f          Emily Richardson 
+ 
+§7Head of Social Media
+§f          Amelia Dale 
+
+§7Head of Player Operations
+§f          Aubrey Norris 
+ 
+§7Community Manager
+§f          Glory Robinson (Experis) 
+§f          Helen Zbihlyj 
+§f          Nova Barlow (Experis) 
+ 
+§7Customer Support 
+§f          Amelia Lindroth Henriksson 
+§f          Ana Barata Martins 
+§f          Andreas Andersson 
+§f          Andreas Jergensen 
+§f          Angehlica Walling 
+§f          Annika Tripke-Lund 
+§f          Anton Albiin 
+§f          Carl Johnsson 
+§f          Cim Borg 
+§f          Dante Stjernberg 
+§f          David Carlsson 
+§f          David Stuart Dahlgren 
+§f          Elin Frykholm 
+§f          Eliza Hearsum 
+§f          Erik Nordberg 
+§f          Fredrik Henriksson 
+§f          Henrik Davallius 
+§f          Henry Shi 
+§f          Joe Liu 
+§f          Jonny Hair 
+§f          Kevin Vesterlund 
+§f          Mike Till 
+§f          Nicole Jansson 
+§f          Rabi Hadad 
+§f          Robert Miskiewicz 
+§f          Robin Cocks 
+§f          Robin Thunstrem 
+§f          Theodor Colbing 
+ 
+§7Marketing Manager 
+§f          Bianca Ciotti 
+§f          Delilah Liu 
+§f          Didac Hormiga 
+§f          Eva Stefanac 
+ 
+§7Legal 
+§f          Christi Davisson 
+ 
+§7Intellectual Property Enforcement Lead 
+§f          Mathias Andersson 
+§f          Teresa Lee Rodewald 
+ 
+§7Intellectual Property Enforcement Agents 
+[C]
+§f          Marcus Forss 
+§f          Matilda ekerman 
+ 
+§7Lead Project Manager 
+§f          Vera Mirchev 
+ 
+§7Development Partner: Skybox 
+§f          Ace Cheung 
+§f          Alina Varela 
+§f          Ashlyn Gadow 
+§f          Blair Hitchens 
+§f          Bren Lynne 
+§f          Carsten Hooker 
+§f          Chris Klassen 
+§f          Cody Clattenburg 
+§f          Cole Pollock 
+§f          Daniel Shim 
+§f          Dave MacLean 
+§f          Diana Jutras 
+§f          Gabriel J. Gonzalez 
+§f          Gary Shaw 
+§f          Ghafur Remtulla 
+§f          Glen Conolly 
+§f          Graham Laverty 
+§f          Ivan Yemelianov 
+§f          Jake Roman-Barnes 
+§f          Jay Luo 
+§f          Jeffery Chou 
+§f          Jesse Taylor 
+§f          Joel Stack 
+§f          Jonathan Yim 
+§f          Jordan Lacey 
+§f          Jordan Pongracz 
+§f          Justin Moon 
+§f          Keven Nguyen 
+§f          Kevin Hsu 
+§f          Kris Morness 
+§f          Kyle Roblin 
+§f          Leo Stark 
+§f          Marc Faulise 
+§f          Marcel Brake 
+§f          Matheus Depra Gudergues 
+§f          Matt Klassen 
+§f          Max Fanning 
+§f          Mitch Armstrong 
+§f          Mitch Filmer 
+§f          Olivia Chung 
+§f          Oscar Yang 
+§f          Paul Baker 
+§f          Peter Martin 
+§f          Pope Kim 
+§f          Prithiraj Ghosh 
+§f          Reynald Brassard 
+§f          Richard Hawkes 
+§f          Richard Walker 
+§f          Rohit Moni 
+§f          Serge Lansiquot 
+§f          Shaun Foley 
+§f          Simon Gleizes 
+§f          Stefan Sarnev 
+§f          Thiago Braga 
+§f          Tim Bruecker 
+§f          Tim Hinds 
+§f          Trevin Wong 
+§f          Ty Lauriente 
+§f          Tyler Da Costa 
+§f          Yuri Fomenko 
+§f          Zach Chan 
+ 
+§7Development Partner: BBI 
+§f          Alex Sharp - Assistant Producer 
+§f          Andrew Yuennan - Programmer 
+§f          Anish Shenwai - Co-Op Programmer 
+§f          Bhavesh Gupta - Associate Programmer 
+§f          Branko Bajcetic - Co-Op Programmer 
+§f          Christina Oh - Co-Op Programmer 
+§f          Christopher Whitman - Programmer 
+§f          David McKay - Associate Producer 
+§f          Duarte Maia - Programmer 
+§f          Elizabeth Pieters - Co-Op Programmer 
+§f          Eric Dahl - Co-Op Programmer 
+§f          Erick Tavares  - Programmer 
+§f          Gupta Bhavesh 
+§f          Hugo Burd - Co-Op Programmer 
+§f          James Fairweather 
+§f          Kelsey Primar - Producer 
+§f          Kevin Yu - Co-Op Programmer 
+§f          Koki Pan - Co-Op Programmer 
+§f          Riley Godard - Associate Programmer 
+§f          Ryan LeMesurier - Lead QA Analyst 
+§f          Thomas Paterson - Programmer 
+§f          Tyler Nilsson 
+§f          Vidhi Shah - Designer 
+§f          Wes Trevor - Senior QA 
+§f          Youhan Guan - Programmer 
+ 
+§7Development Partner: Red Lens 
+§f          Christopher Kohnert 
+§f          Joshua Claeys 
+§f          Ryan Davison
+  
+[C]Studios Quality Alumni 
+§f         Quality Leads 
+§f         Tony Harlich 
+§7Quality Engineers 
+§f         Akshata Trivedi 
+ 
+§7Quality Data Analysis & Engineering 
+§f          Jeff MacDermot 
+ 
+§7Quality Analysts 
+§f          Yi Zhao (Kforce) 
+§f          Poland - Team Leads
+§f          Anna Wróbel (Lionbridge) 
+§f          Kamil Bazydeo (Lionbridge) 
+§f          Pawee Piekarski (Lionbridge) 
+§f          US Team - Software Test Engineering Leads
+§f          Chris James (Insight Global Inc.)
+§f          US Team - Software Test Engineers
+§f          Brendan McElroy (Insight Global Inc.) 
+§f          Crystal Edwards (Insight Global Inc.) 
+§f          Dan Parker (Insight Global Inc.) 
+§f          Isaac Dudley (Insight Global Inc.) 
+§f          John Ehresmann (Experis) 
+§f          Sean Colbert (Experis) 
+§f          US Team - Test Associates
+§f          Brian Sears (Experis) 
+§7Lionbridge
+§f          Adam Praemo (Lionbridge) 
+§f          Adam Ronowski (Lionbridge) 
+§f          Adrianna Zalewska (Lionbridge) 
+§f          Agata Bidelska (Lionbridge) 
+§f          Andrzej Wojciechowski (Lionbridge) 
+§f          Barteomiej Dziureyński (Lionbridge) 
+§f          Barteomiej Mareczko (Lionbridge) 
+§f          Bartosz Szklarzyński (Lionbridge) 
+§f          Cezary Kociński (Lionbridge) 
+§f          Damian Golik (Lionbridge) 
+§f          Daniel Wystyrk (Lionbridge) 
+§f          Emmanuelle Rodrigues Nunes (Lionbridge) 
+§f          Eva Horvath (Lionbridge) 
+§f          Filip Gwarda (Lionbridge) 
+§f          Filip Muchin (Lionbridge) 
+§f          Jacek Petela (Lionbridge) 
+§f          Jan Gesiorowski (Lionbridge) 
+§f          Jan Prejs (Lionbridge) 
+§f          Jan Zozman (Lionbridge) 
+§f          Kacper Krupa (Lionbridge) 
+§f          Kamil Zakrzewski (Lionbridge) 
+§f          Karol Kotowicz (Lionbridge) 
+§f          Karol Sobotka (Lionbridge) 
+§f          Karolina Oteowska (Lionbridge) 
+§f          Katarzyna Jaworska (Lionbridge) 
+§f          Krzysztof Poeomski (Lionbridge) 
+§f          eukasz Sajnóg (Lionbridge) 
+§f          eukasz Walczyński (Lionbridge) 
+§f          Maciej Brzeziński (Lionbridge) 
+§f          Maciej Kienig (Lionbridge) 
+§f          Maksymilian Kaeucki (Lionbridge) 
+§f          Maegorzata Janiszewska (Lionbridge) 
+§f          Marcin Papadopoulos-Gajda (Lionbridge) 
+§f          Marco Paparella (Lionbridge) 
+§f          Marek Urbański (Lionbridge) 
+§f          Maria Wypych (Lionbridge) 
+§f          Mateusz Kaliszewski (Lionbridge) 
+§f          Mateusz Majewski (Lionbridge) 
+§f          Mateusz Miturski (Lionbridge) 
+§f          Mateusz Tran Van (Lionbridge) 
+§f          Michae Antosiak (Lionbridge) 
+§f          Michae Meynek (Lionbridge) 
+§f          Michae Woe (Lionbridge) 
+§f          Monika Elandt (Lionbridge) 
+§f          Nijat Aghamali (Lionbridge) 
+§f          Pawee Chruszczewski (Lionbridge) 
+§f          Pawee Kumanowski (Lionbridge) 
+§f          Pawee Neecior (Lionbridge) 
+§f          Piotr Biernacki (Lionbridge) 
+§f          Piotr Gryczan (Lionbridge) 
+§f          Piotr Kolendo (Lionbridge) 
+§f          Piotr eowin (Lionbridge) 
+§f          Piotr Seomka (Lionbridge) 
+§f          Piotr Zieliński (Lionbridge) 
+§f          Przemyseaw Goch (Lionbridge) 
+§f          Przemyseaw Malinowski (Lionbridge) 
+§f          Przemyseaw Wróbel (Lionbridge) 
+§f          Rafal Pruszkowski (Lionbridge) 
+§f          Rajkumar Kulandaivelu (Lionbridge) 
+§f          Ryszard Kowalczyk (Lionbridge) 
+§f          Sandra Meister (Lionbridge) 
+§f          eimon Kravár (Lionbridge) 
+§f          Staniseaw Dmowski (Lionbridge) 
+§f          Staniseaw Grabowsk (Lionbridge) 
+§f          Staniseaw Grabowski (Lionbridge) 
+§f          Szymon Mazurek (Lionbridge) 
+§f          Szymon Okoń (Lionbridge) 
+§f          Tomasz Mirkiewicz (Lionbridge) 
+§f          Tomasz Orlecki (Lionbridge) 
+§f          Tomasz Sporczyk (Lionbridge) 
+§f          Tomasz Zdrzalik (Lionbridge) 
+§f          Wojciech Komada (Lionbridge) 
+§f          Wojciech Nieckarz (Lionbridge)
+
+§7Pack Creater
+§f          dfdvdsf
+
+§7"Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover."" §7- Unknown"
+§7For the original designers, we should pay tribute to them,For new people, we welcome them."
+§7That's end.Thank you for you using this pack.
