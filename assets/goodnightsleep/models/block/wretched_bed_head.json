@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "goodnightsleep:blocks/wretched_bed_head_top",
+		"1": "goodnightsleep:blocks/wretched_bed_leg",
+		"2": "goodnightsleep:blocks/bed_top_plank",
+		"3": "goodnightsleep:blocks/wretched_bed_head_end_top",
+		"4": "goodnightsleep:blocks/wretched_bed_head_side_top",
+		"particle": "goodnightsleep:blocks/wretched_bed_head_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13],
+			"to": [3, 7, 16],
+			"faces": {
+				"north": {"uv": [8, 2, 11, 8], "texture": "#1"},
+				"east": {"uv": [8, 8, 11, 14], "texture": "#1"},
+				"south": {"uv": [8, 8, 11, 14], "texture": "#1"},
+				"west": {"uv": [8, 8, 11, 14], "texture": "#1"},
+				"up": {"uv": [11, 5, 14, 8], "texture": "#1"},
+				"down": {"uv": [11, 8, 14, 11], "texture": "#1"}
+			}
+		},
+		{
+			"from": [13, 0, 13],
+			"to": [16, 7, 16],
+			"faces": {
+				"north": {"uv": [8, 2, 11, 8], "texture": "#1"},
+				"east": {"uv": [8, 8, 11, 14], "texture": "#1"},
+				"south": {"uv": [8, 8, 11, 14], "texture": "#1"},
+				"west": {"uv": [8, 8, 11, 14], "texture": "#1"},
+				"up": {"uv": [11, 5, 14, 8], "texture": "#1"},
+				"down": {"uv": [11, 8, 14, 11], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 7, 0],
+			"to": [16, 13, 16],
+			"faces": {
+				"east": {"uv": [0, 10, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 10, 16, 16], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 6], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	]
+}
