@@ -26,6 +26,8 @@ If this resource pack haven't had a version that support your currently playing 
 | Animal & Eggy Addon |         6 - 20         |                               Coming soon...                               |         Backport modern animal & modern spawn eggs.         | Optifine **Required** !        |
 
 
+The main branche DOES NOT contain any textures pack
+
 ## Download 
 [GitHub](https://github.com/song682/MC-New-Textures)
 [Modrinth](https://modrinth.com/resourcepack/mc-new-textures)            
