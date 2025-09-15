@@ -7,6 +7,6 @@ Download at
 [GitHub](https://github.com/song682/MC-New-Textures) 
 [Modrinth](https://modrinth.com/resourcepack/mc-new-textures)           
 Create by dfdvdsf.   
-Under MIT License[License]
+Under [MIT License](LICENSE)
 
 
