@@ -1,7 +1,0 @@
-十分感谢以下的人对于这个模组包的贡献。
-Thank you for your help.
-EnderIO Ingot: https://center.mcmod.cn/209068/
-Some Other Textures: https://www.curseforge.com/minecraft/texture-packs/new-textures
-                     https://www.curseforge.com/minecraft/texture-packs/ingots-template
-EtFutrumRequiem Bed: https://space.bilibili.com/170651403
-ImmersiveEngineering: https://www.curseforge.com/minecraft/texture-packs/updated-engineering
